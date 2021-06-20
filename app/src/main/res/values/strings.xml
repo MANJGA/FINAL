@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">FinalProject</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sing_up">sing_up</string>
+    <string name="don_t_have_an_account">don\'t have an account</string>
+    <string name="login">login</string>
+    <string name="password">password</string>
+    <string name="your_email">your email</string>
+    <string name="email">email</string>
+    <string name="log_in">log in</string>
+    <string name="sign_up">sign up</string>
+    <string name="register_yourself_to_acces">register yourself to acces</string>
+    <string name="signup">sign up</string>
+    <string name="already_have_an_account">already have an account</string>
+    <string name="sigin_in">sigin in</string>
+    <string name="add_your_questions">add your questions</string>
+    <string name="submit">Submit</string>
+    <string name="answer">answer</string>
+    <string name="question">Question</string>
+</resources>
